@@ -11,6 +11,15 @@
 ## 📊 My Coding Stats
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 30 April 2026 - To: 07 May 2026
+
+Total Time: 2 mins
+
+Python   2 mins                →→→→→→→→→→→→→→→→→→→→→→→→→   100.00 %
+```
+
 <!--END_SECTION:waka-->
 
 ## 🛠 Tools & Environment
