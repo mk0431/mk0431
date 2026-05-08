@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm mk0431 👋
 
-<!--
-**mk0431/mk0431** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- 🌐 13 years of experience as an Infrastructure Engineer
+- 🐍 Currently learning Python
+- 📚 Reading: 独習Python 第2版, 退屈なことはPythonにやらせよう 第3版
+- 🎯 Goal: 2000 hours of Python study
+- 📍 Based in Japan
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 My Coding Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+## 🛠 Tools & Environment
+
+- macOS
+- VS Code
+- Python 3.x
+- Git / GitHub
+- Obsidian (Learning Journal)
+
+## 📅 Learning Started
+
+2026-05-06
+
+---
+
+⚡ This README is auto-updated daily with my coding stats.
